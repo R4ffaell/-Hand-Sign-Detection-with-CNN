@@ -40,6 +40,9 @@ The model is a CNN (Convolutional Neural Network) built using TensorFlow/Keras. 
 - Metrics: Precision, Recall, F1-Score per class
 
 ### Sample Confusion Matrix Report:
+
+![Untitled](https://github.com/user-attachments/assets/da621df8-5735-440c-b718-f3f6f21b7e3f)
+
 ```
               precision    recall  f1-score   support
 
